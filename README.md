@@ -9,6 +9,9 @@ This project automates the generation of compliance reports for various cybersec
 - **Increase visibility and transparency** into the organization's security posture.
 - **Streamline audits and assessments** with consolidated and digestible data.
 
+![Compliance dashboard example](GRC%20Dashboard.png)
+
+
 ## Technical Stack
 
 - **Programming language:** Python
