@@ -48,16 +48,6 @@ This project is open-source on GitHub, welcoming contributions and improvements!
 3. Configure the script with your data sources and frameworks.
 4. Run the script and explore the generated reports and dashboards.
 
-## Next Steps
-
-- Enhance with anomaly detection and automated remediation recommendations.
-- Integrate with SIEM systems for real-time reporting.
-- Develop a web-based interface for managing data sources and report configurations.
-
-## Call to Action
-
-Contribute your feedback, suggestions, and technical expertise! Let's collaborate to automate compliance reporting and create a more secure digital environment.
-
 Directory Structure:
 
 project_root/
@@ -73,6 +63,17 @@ project_root/
 │   └── test_compliance_report.py
 └── reports/
     └── compliance_report.pdf (or other format)
+
+## Next Steps
+
+- Enhance with anomaly detection and automated remediation recommendations.
+- Integrate with SIEM systems for real-time reporting.
+- Develop a web-based interface for managing data sources and report configurations.
+
+## Call to Action
+
+Contribute your feedback, suggestions, and technical expertise! Let's collaborate to automate compliance reporting and create a more secure digital environment.
+
 
 ## Additional Resources
 
